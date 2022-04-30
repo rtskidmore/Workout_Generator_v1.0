@@ -1,0 +1,9 @@
+bag kick power
+bag punch power
+bag punch burnout
+bag kick burnout
+bag sled push
+bag combo drill
+bag combo + movement
+bag freestyle
+bag sit up + 2x hooks

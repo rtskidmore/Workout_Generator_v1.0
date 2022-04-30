@@ -1,0 +1,53 @@
+bw,Wall Sit
+bw,Squats
+bw,Push ups
+bw,lateral lunges
+bw,Squat Jumps
+bw,X-Ups
+bw,Single Leg Bal + Toe Touch/DL
+bw,Plank Hold with Shoulder Taps
+bw,Pikes
+bw,Mt Climbs
+bw,Plank Jacks
+bw,Seated Twists
+bw,Dips
+bw,Supermans
+bw,Prone Back Ext
+bw,Squat pulses
+bw,squat hold
+bw,Lunge pulses
+bw,Sumo Squat
+bw,Ice skaters
+bw,Walking Lunges
+bw,Backward Walking lunges
+bw,Curtsy Lunges
+bw,Assisted Pistol Squats
+bw,Bulgarian Split Squats
+bw,Single leg glute bridge
+bw,Bird Dogs
+bw,Single Leg calf raise
+bw,Jumping jacks
+bw,Bicycle crunches
+bw,Side Plank
+bw,Flutter Kicks
+bw,Windshield Wipers
+bw,Sprints
+bw,Star Jumps
+bw,Tuck Jumps
+bw,Burpees
+bw,Sit ups
+bw,V-Ups
+bw,Side V-ups
+bw,High Knees
+bw,Butt Kicks
+bw,Single Leg Balance
+bw,High Kick toe touch
+bw,Reverse Crunch
+bw,Seated Crunch
+bw,Bear Crawl
+bw,Inchworms
+bw,Dive Bomb Pushups
+bw,Single Leg Burpees
+bw,Leg Raise
+bw,Boat Pose
+bw,Pushup Position knee to elbow

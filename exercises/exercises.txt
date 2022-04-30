@@ -1,0 +1,128 @@
+equipment,exercise
+bag,kick power
+bag,punch power
+bag,punch burnout
+bag,kick burnout
+bag,sled push
+bag,combo drill
+bag,combo + movement
+bag,freestyle
+bag,sit up + 2x hooks
+Band,Shuffles
+Band,Squat jumps
+Band,Leg Raise
+Band,Bicycles
+Band,Lateral Step Squats
+Band,Plank Pos. Ext.
+Band,Standing Abd.
+BB,Squats
+BB,Chest Press
+BB,Lateral Lunges
+BB,Reverse Lunges
+BB,Bent Row
+BB,OH Press
+BB,Bicep Curls
+bw,Wall Sit
+bw,Squats
+bw,Push ups
+bw,lateral lunges
+bw,Squat Jumps
+bw,X-Ups
+bw,Single Leg Bal + Toe Touch/DL
+bw,Plank Hold with Shoulder Taps
+bw,Pikes
+bw,Mt Climbs
+bw,Plank Jacks
+bw,Seated Twists
+bw,Dips
+bw,Supermans
+bw,Prone Back Ext
+bw,Squat pulses
+bw,squat hold
+bw,Lunge pulses
+bw,Sumo Squat
+bw,Ice skaters
+bw,Walking Lunges
+bw,Backward Walking lunges
+bw,Curtsy Lunges
+bw,Assisted Pistol Squats
+bw,Bulgarian Split Squats
+bw,Single leg glute bridge
+bw,Bird Dogs
+bw,Single Leg calf raise
+bw,Jumping jacks
+bw,Bicycle crunches
+bw,Side Plank
+bw,Flutter Kicks
+bw,Windshield Wipers
+bw,Sprints
+bw,Star Jumps
+bw,Tuck Jumps
+bw,Burpees
+bw,Sit ups
+bw,V-Ups
+bw,Side V-ups
+bw,High Knees
+bw,Butt Kicks
+bw,Single Leg Balance
+bw,High Kick toe touch
+bw,Reverse Crunch
+bw,Seated Crunch
+bw,Bear Crawl
+bw,Inchworms
+bw,Dive Bomb Pushups
+bw,Single Leg Burpees
+bw,Leg Raise
+bw,Boat Pose
+bw,Pushup Position knee to elbow
+Bosu,Deficit Lunges
+Bosu,Forward Lunges
+Bosu,Burpees
+Bosu,Mt Climbers
+Bosu,Plank Jacks
+Bosu,Push Ups
+Bosu,Side steps
+Bosu,Narrow Squats
+DB,Tri. Ext.
+DB,OH Press
+DB,Bent Row
+DB,Reverse Lunges
+DB,Alt. Plank Row
+DB,Thrusters
+DB,Chest press
+KB,Goblet Squat
+KB,Swings
+KB,Alt. SA Swings
+KB,Lunge + Twist
+KB,Lateral Lunges
+KB,Up Jacks
+MB,Slams
+MB,Seated Twist
+MB,Lateral Slams
+MB,Burpees
+MB,Wall Toss
+MB,Lateral Wall Toss
+MB,Unilateral Squat
+misc,Ski Erg
+misc,Rower
+misc,Bike
+misc,Elliptical
+Rope,Waves
+Rope,Slams
+Rope,Jumping Jacks
+Step,Side Steps
+Step,Burpees
+Step,Step Ups
+Step,Push Ups
+Step,Seated Squat Jummps
+Step,Squat to Step
+Step,Deficit Lunges
+Step,Forward lunge + Bal
+TRX,Squats
+TRX,Squat Jumps
+TRX,Rows
+TRX,Chest Press
+TRX,Bicep Curls
+TRX,Tri. Ext.
+TRX,Plank
+TRX,Standing Rotation

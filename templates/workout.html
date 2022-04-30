@@ -1,0 +1,21 @@
+{% include "header.html" %}
+<header class="masthead" style="background-image: url('https://images.unsplash.com/photo-1558611848-73f7eb4001a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>You made a workout!</h1>
+            <span class="subheading">Look at it!</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+<body>
+{% for exercise in workout %}
+        <p class="text-center">{{ exercise.title() }}</p>
+
+{% endfor %}
+</body>
+{% include "footer.html" %}

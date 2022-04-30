@@ -1,0 +1,4 @@
+misc,Ski Erg
+misc,Rower
+misc,Bike
+misc,Elliptical

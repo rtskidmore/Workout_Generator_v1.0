@@ -1,0 +1,128 @@
+id,equipment,exercise
+0,bag,kick power
+1,bag,punch power
+2,bag,punch burnout
+3,bag,kick burnout
+4,bag,sled push
+5,bag,combo drill
+6,bag,combo + movement
+7,bag,freestyle
+8,bag,sit up + 2x hooks
+9,Band,Shuffles
+10,Band,Squat jumps
+11,Band,Leg Raise
+12,Band,Bicycles
+13,Band,Lateral Step Squats
+14,Band,Plank Pos. Ext.
+15,Band,Standing Abd.
+16,BB,Squats
+17,BB,Chest Press
+18,BB,Lateral Lunges
+19,BB,Reverse Lunges
+20,BB,Bent Row
+21,BB,OH Press
+22,BB,Bicep Curls
+23,bw,Wall Sit
+24,bw,Squats
+25,bw,Push ups
+26,bw,lateral lunges
+27,bw,Squat Jumps
+28,bw,X-Ups
+29,bw,Single Leg Bal + Toe Touch/DL
+30,bw,Plank Hold with Shoulder Taps
+31,bw,Pikes
+32,bw,Mt Climbs
+33,bw,Plank Jacks
+34,bw,Seated Twists
+35,bw,Dips
+36,bw,Supermans
+37,bw,Prone Back Ext
+38,bw,Squat pulses
+39,bw,squat hold
+40,bw,Lunge pulses
+41,bw,Sumo Squat
+42,bw,Ice skaters
+43,bw,Walking Lunges
+44,bw,Backward Walking lunges
+45,bw,Curtsy Lunges
+46,bw,Assisted Pistol Squats
+47,bw,Bulgarian Split Squats
+48,bw,Single leg glute bridge
+49,bw,Bird Dogs
+50,bw,Single Leg calf raise
+51,bw,Jumping jacks
+52,bw,Bicycle crunches
+53,bw,Side Plank
+54,bw,Flutter Kicks
+55,bw,Windshield Wipers
+56,bw,Sprints
+57,bw,Star Jumps
+58,bw,Tuck Jumps
+59,bw,Burpees
+60,bw,Sit ups
+61,bw,V-Ups
+62,bw,Side V-ups
+63,bw,High Knees
+64,bw,Butt Kicks
+65,bw,Single Leg Balance
+66,bw,High Kick toe touch
+67,bw,Reverse Crunch
+68,bw,Seated Crunch
+69,bw,Bear Crawl
+70,bw,Inchworms
+71,bw,Dive Bomb Pushups
+72,bw,Single Leg Burpees
+73,bw,Leg Raise
+74,bw,Boat Pose
+75,bw,Pushup Position knee to elbow
+76,Bosu,Deficit Lunges
+77,Bosu,Forward Lunges
+78,Bosu,Burpees
+79,Bosu,Mt Climbers
+80,Bosu,Plank Jacks
+81,Bosu,Push Ups
+82,Bosu,Side steps
+83,Bosu,Narrow Squats
+84,DB,Tri. Ext.
+85,DB,OH Press
+86,DB,Bent Row
+87,DB,Reverse Lunges
+88,DB,Alt. Plank Row
+89,DB,Thrusters
+90,DB,Chest press
+91,KB,Goblet Squat
+92,KB,Swings
+93,KB,Alt. SA Swings
+94,KB,Lunge + Twist
+95,KB,Lateral Lunges
+96,KB,Up Jacks
+97,MB,Slams
+98,MB,Seated Twist
+99,MB,Lateral Slams
+100,MB,Burpees
+101,MB,Wall Toss
+102,MB,Lateral Wall Toss
+103,MB,Unilateral Squat
+104,misc,Ski Erg
+105,misc,Rower
+106,misc,Bike
+107,misc,Elliptical
+108,Rope,Waves
+109,Rope,Slams
+110,Rope,Jumping Jacks
+111,Step,Side Steps
+112,Step,Burpees
+113,Step,Step Ups
+114,Step,Push Ups
+115,Step,Seated Squat Jummps
+116,Step,Squat to Step
+117,Step,Deficit Lunges
+118,Step,Forward lunge + Bal
+119,TRX,Squats
+120,TRX,Squat Jumps
+121,TRX,Rows
+122,TRX,Chest Press
+123,TRX,Bicep Curls
+124,TRX,Tri. Ext.
+125,TRX,Plank
+126,TRX,Standing Rotation

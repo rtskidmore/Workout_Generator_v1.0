@@ -1,0 +1,40 @@
+{% include "header.html" %}
+
+<!-- Page Header -->
+  <header class="masthead" style="background-image: url('https://images.unsplash.com/photo-1571902943202-507ec2618e8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1075&q=80')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>Workout Generator v1.0</h1>
+            <span class="subheading">Generate a workout</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+<body>
+<div>
+<h1 class="text-center">Please Select Equipment Below:</h1>
+<form method="post" class="text-center" role="form" action="/workout">
+    Bodyweight <input type="checkbox" align="left" value="bw" name="mycheckbox"> <br>
+    Barbell <input type="checkbox" align="left" value="barbell" name="mycheckbox"> <br>
+    Dumbbell <input type="checkbox" value="dumbbell" name="mycheckbox"> <br>
+    Kettlebell <input type="checkbox" value="kettlebell" name="mycheckbox"> <br>
+    TRX <input type="checkbox" value="trx" name="mycheckbox"> <br>
+    Punching Bag <input type="checkbox" value="bag" name="mycheckbox"> <br>
+    Small Band <input type="checkbox" value="band" name="mycheckbox"> <br>
+    Bosu <input type="checkbox" value="bosu" name="mycheckbox"> <br>
+    Medicine Ball <input type="checkbox" value="medball" name="mycheckbox"> <br>
+    Misc. Machines <input type="checkbox" value="misc" name="mycheckbox"> <br>
+    Step <input type="checkbox" value="step" name="mycheckbox"> <br>
+    Battle Ropes <input type="checkbox" value="rope" name="mycheckbox"> <br>
+    <input type="submit">
+</form>
+    </div>
+</body>
+
+
+{% include "footer.html" %}
